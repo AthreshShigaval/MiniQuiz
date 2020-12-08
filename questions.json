@@ -1,0 +1,26 @@
+[
+    {
+    "question": "What is your favorite color",
+    "choice1": "Red",
+    "choice2": "Blue",
+    "choice3": "White",
+    "choice4": "Pink",
+    "answer": 3
+    },
+    {
+        "question": "What is your favorite food",
+        "choice1": "Pasta",
+        "choice2": "Dose",
+        "choice3": "Pizza",
+        "choice4": "Burger",
+        "answer": 2
+    },
+    {
+        "question": "Who is your favorite car brand",
+        "choice1": "Audi",
+        "choice2": "BMW",
+        "choice3": "Merc",
+        "choice4": "Volvo",
+        "answer": 1
+    }    
+]
